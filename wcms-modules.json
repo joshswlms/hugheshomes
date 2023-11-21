@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "Hughes Homes": {
+            "name": "Hughes Homes",
+            "repo": "https://github.com/joshswlms/hugheshomes/tree/master",
+            "zip": "http://www.thewlms.com/theme/hugheshomes.zip",
+            "summary": "Official theme of Hughes Homes, LLC",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/joshswlms/hugheshomes/master/preview.jpg"
+        }
+    }
+}
